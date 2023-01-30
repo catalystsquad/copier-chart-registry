@@ -3,7 +3,7 @@
 organization:
   type: str
   help: What is your organization name?
-  default: UnsetOrg
+  default: unsetorg
 
 githost:
   type: str
